@@ -2,4 +2,14 @@
 baseurl: "http://www.embryo-systems.info/"
 languageCode: "en-us"
 title: "Embryo Systems"
+
+pygmentsuseclasses: false
+pygmentsstyle: pastie
+
+menu:
+    main:
+        - Name: "Source"
+          Weight: -110
+          Identifier: "source"
+          URL: "https://github.com/nrdufour/orange"
 ---
