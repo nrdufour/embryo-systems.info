@@ -6,6 +6,8 @@ title: "Embryo Systems"
 pygmentsuseclasses: false
 pygmentsstyle: pastie
 
+metaDataFormat: "yaml"
+
 menu:
     main:
         - Name: "Source"
